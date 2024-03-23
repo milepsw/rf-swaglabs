@@ -1,0 +1,19 @@
+product_list:
+  product_name1:  Sauce Labs Backpack
+  product_price1: "29.99"
+  product_name2:  Sauce Labs Bike Light
+  product_price2: "9.99"
+  product_name3:  Sauce Labs Bolt T-Shirt
+  product_price3: "15.99"
+  product_name4:  Sauce Labs Fleece Jacket
+  product_price4: "49.99"
+  product_name5:  Sauce Labs Fleece Jacket
+  product_price5: "7.99"
+  product_name6:  Test.allTheThings() T-Shirt (Red)
+  product_price6: "15.99"
+
+sort_by:
+  name_a-z: Name (A to Z)
+  name_z-a: Name (Z to A)
+  price_l-h:  Price (low to high)
+  price_h-l:  Price (high to low)
